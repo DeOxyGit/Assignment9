@@ -8,17 +8,17 @@ import MyForm from "./components/myForm"
 function App() {
     const users = [
       {
-        name: "John Doe",
+        name: "John Yaslen",
         job: "Engineer",
         hobby: "Listening to music"
       },
       {
-        name: "John Doe",
+        name: "John Brick",
         job: "Engineer",
         hobby: "Listening to music"
       },
       {
-        name: "John Doe",
+        name: "P nhum Gun Jonhn",
         job: "Engineer",
         hobby: "Listening to music"
       }];
